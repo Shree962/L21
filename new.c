@@ -1,14 +1,14 @@
 #include <stdio.h>
-void main()
+int main()
 {
 int a=12,b=20;
 
-printf("%d",a);
-printf("%d",b);
-printf("%d",a+b);
-printf("%d",a-b);
-printf("%d",a*b);
-printf("%d",a/b);
+printf("%d\n",a);
+printf("%d\n",b);
+printf("%d\n",a+b);
+printf("%d\n",a-b);
+printf("%d\n",a*b);
+printf("%d\n",a/b);
 return 0;
 }
 
