@@ -19,4 +19,11 @@ witch (day) {
 		break;
 	case 5:
 		printf("Thursday\n");
-		break;	
+		break;
+	case 6:
+		printf("Friday\n");
+		break;
+	case 7:
+		printf("Saturday\n");
+		break;
+
