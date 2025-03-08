@@ -26,4 +26,7 @@ witch (day) {
 	case 7:
 		printf("Saturday\n");
 		break;
-
+	default;
+	printf("Invalid input! Please enter a number between 1 to 7.\n");
+}
+} 
